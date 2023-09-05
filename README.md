@@ -31,5 +31,5 @@ What benefit do we have from having integration tests in our project?
 ```
 Your though here
 ```
-
+Because of the integration tests in projects, I can test variable inputs easily and get a chance to know how the test process works. 
 
